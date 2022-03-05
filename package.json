@@ -4,7 +4,8 @@
   "description": "Test Node project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "my": "echo \"my script\""
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/AntoBo/terminal-node-npm-test/issues"
   },
-  "homepage": "https://github.com/AntoBo/terminal-node-npm-test#readme"
+  "homepage": "https://github.com/AntoBo/terminal-node-npm-test#readme",
+  "dependencies": {
+    "joi": "^17.6.0",
+    "validator": "^13.7.0"
+  }
 }
