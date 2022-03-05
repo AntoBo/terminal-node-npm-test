@@ -1,0 +1,19 @@
+{
+  "name": "terminal-node-npm-test",
+  "version": "1.0.0",
+  "description": "Test Node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoBo/terminal-node-npm-test.git"
+  },
+  "author": "AntoBo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoBo/terminal-node-npm-test/issues"
+  },
+  "homepage": "https://github.com/AntoBo/terminal-node-npm-test#readme"
+}
